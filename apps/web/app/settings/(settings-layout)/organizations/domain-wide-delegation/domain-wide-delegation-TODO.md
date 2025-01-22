@@ -1,3 +1,6 @@
+WIP
+- I have Workload Identity Federation working but impersonation of a user isn't working.
+
 ## Version 1.0
 ### Release Plan
   1. Read the document(domain-wide-delegation.md) and acknowledge it.
